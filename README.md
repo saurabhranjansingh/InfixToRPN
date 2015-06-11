@@ -1,5 +1,4 @@
-# Infix To Postfix (RPN) in C# .NET
-Converting Infix to Reverse Polish Notation using shunting-yard algorithm.
+# Converting Infix To Postfix (Reverse Polish Notation) using shunting-yard algorithm in C# .NET
 
 Reverse Polish notation (RPN) is a mathematical notation in which every operator follows all of its operands. It is also known as <b>postfix notation</b> and is normally parenthesis-free. To know more about this notation please see the wikipedia article - http://en.wikipedia.org/wiki/Reverse_Polish_notation
 
